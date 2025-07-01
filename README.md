@@ -1,4 +1,4 @@
-#Maze Game
+# Maze Game
 
 Interactive Java game.
 
